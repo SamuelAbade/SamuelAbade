@@ -3,7 +3,7 @@
 
 👩‍💻 I'm currently looking for a job. So, feel free to **see my linkedin:**
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelabade)
 
 🧠 I'm currently learning C++ and i am passionate about JS!
 ## 🚀 About Me
