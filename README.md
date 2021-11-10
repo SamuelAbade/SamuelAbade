@@ -54,7 +54,7 @@ Frameworks:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## Stats
+## :notebook:	 Stats
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelAbade&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
