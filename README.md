@@ -1,5 +1,5 @@
 
-# Hi, My Name Is Samuel! 👋
+# Call Me Samuel! :sunglasses:
 
 👩‍💻 I'm currently looking for a job. So, feel free to **see my linkedin:**
 
