@@ -1,7 +1,4 @@
-
-# Call Me Samuel! :sunglasses:
-
-👩‍💻 I'm currently looking for a job. So, feel free to **see my linkedin:**
+👩‍💻 Feel free to **see my linkedin:**
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelabade)
 
@@ -10,8 +7,6 @@
 [![Generic badge](https://img.shields.io/badge/Age-22-green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Location-Spain-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Nationality-Brazilian-yellow.svg)](https://shields.io/)
-
-I'm a full stack developer!
 
 ### Tech's i know:
 
